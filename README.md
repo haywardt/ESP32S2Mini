@@ -22,3 +22,5 @@ GP15 is LED_BUILTIN
 Deep sleep current with regulator is 40uA at 5v
 Current with wifi is about 100mA
 Analog Vref is 1.1V
+![pinputs](https://www.studiopieters.nl/wp-content/uploads/2022/08/WEMOS-ESP32-S2-MINI.png)
+https://www.studiopieters.nl/esp32-s2/
